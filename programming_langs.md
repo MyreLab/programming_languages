@@ -1,22 +1,3 @@
----
-title: "Trends in programming languages over time"
-author: Myrela Bauman
-date: '2021'
-output: 
-  html_document:
-    keep_md: true
-    theme: simplex
-    highlight: haddock
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
----
-<style type="text/css">
-  body{
-  font-size: 12pt;
-}
-</style>
 
 
 ## 1. Introduction
